@@ -2,9 +2,12 @@
 
 ## Highlights
 <p align="center">
-  <img src="demo/mot_speed_vs_acc.pdf" alt="overview-of-our-method" width="500"/></br>
-  <span align="center">Comparison of inference speed and accuracy for real-time models on test set of Cityscapes.</span> 
+  <a href="demo/mot_speed_vs_acc.pdf">
+    <img src="demo/mot_speed_vs_acc.png" alt="Comparison of inference speed and accuracy" width="500"/>
+  </a><br/>
+  <span align="center">Comparison of inference speed and accuracy for real-time models on the Cityscapes test set.</span>
 </p>
+
 
 
 * **Towards Real-time Applications**: ICTNet could be directly used for real-time applications, such as autonomous vehicles and medical imaging.
